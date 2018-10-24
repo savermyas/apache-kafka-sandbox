@@ -7,8 +7,8 @@ Sandbox with Apache Kafka environment in Docker and bunch of scripts to play aro
 
 # Getting started
 
-   '''
+   ```bash
    export MY_IP_ADDRESS=$(ifconfig | grep "inet " | grep -v 127.0.0.1 | head -1 | cut -d\  -f2)
    docker-compose up -d
-   '''
+   ```
 
