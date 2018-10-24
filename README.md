@@ -1,5 +1,6 @@
 # Apache Kafka Sandbox
-Sandbox with Apache Kafka environment in Docker and bunch of scripts to play around
+Sandbox with Apache Kafka environment in Docker and bunch of scripts to play around.
+Inspired by http://wurstmeister.github.io/kafka-docker/.
 
 # Pre-requisites
   * Docker (tested with version 18.09.0-ce-beta1)
